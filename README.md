@@ -1,4 +1,8 @@
+Software Engineer | Linux SysAdmin | Electronics | Kubernetes HomeLab | Industrial Robotics | Part time Mad Scientist
+
 ## Hi there 👋
+
+Welcome to my GitHub, a place with a bunch of random things, or something like that.
 
 <!--
 **cmayen/cmayen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
