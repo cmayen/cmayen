@@ -4,6 +4,11 @@ Software Engineer | Linux SysAdmin | Electronics | Kubernetes HomeLab | Industri
 
 Welcome to my GitHub, a place with a bunch of random things, or something like that.
 
+
+My current sandbox project uses AI to review and report on linux system logs. The repo will be coming soon, there are quite a few modifications and additional steps to take care of first, but you can read about the first steps here:
+[https://cmayen.github.io/pages/ubuntu-docker-ollama-rocm-log-analyzer](Ubuntu, Docker, and Ollama on AMD to analyze logs.)
+
+
 <!--
 **cmayen/cmayen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
