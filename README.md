@@ -6,7 +6,7 @@ Welcome to my GitHub, a place with a bunch of random things, or something like t
 
 
 My current sandbox project uses AI to review and report on linux system logs. The repo will be coming soon, there are quite a few modifications and additional steps to take care of first, but you can read about the first steps here:
-[Ubuntu, Docker, and Ollama on AMD to analyze logs.](https://cmayen.github.io/pages/ubuntu-docker-ollama-rocm-log-analyzer){:target="_blank" rel="noopener"} 
+[Ubuntu, Docker, and Ollama on AMD to analyze logs.](https://cmayen.github.io/pages/ubuntu-docker-ollama-rocm-log-analyzer) <!-- {:target="_blank" rel="noopener"} -->
 
 
 <!--
