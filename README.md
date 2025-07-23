@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm a hands on technology guy bridging the gap between hardware and software from robotic automation and network pipelines to solar installs and Linux system administration. With a background spanning from early internet infrastructure to modern cloud native tooling, I’ve always thrived in roles where creative problem solving meets real world impact through learning new technologies and switching contexts quickly. Whether installing robotic cells or coding server automation, I bring curiosity, reliability, and grit to every team I join. If it runs on code, circuits, or caffeine..... I’ve probably worked on it.
