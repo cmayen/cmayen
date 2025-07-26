@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ---
 
-I'm a hands on technology guy bridging the gap between hardware and software from robotic automation and network pipelines to solar installs and Linux system administration. With a background spanning from early internet infrastructure to modern cloud native tooling, I’ve always thrived in roles where creative problem solving meets real world impact through learning new technologies and switching contexts quickly. Whether installing robotic cells or coding server automation, I bring curiosity, reliability, and grit to every team I join. If it runs on code, circuits, or caffeine..... I’ve probably worked on it.
+Technologist bridging software and hardware through automation, robotics, and Linux infrastructure. Over 10 years of experience across system administration, solar, and embedded systems. Known for solving real-world problems with modern DevOps tools like Kubernetes, GitOps, and Linux scripting. Always learning, always building. If it runs on code, circuits, or caffeine..... I’ve probably worked on it.
