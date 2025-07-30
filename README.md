@@ -5,7 +5,7 @@ Software Engineer | Linux SysAdmin | Electronics | Kubernetes HomeLab | Industri
 Welcome to my GitHub, a place with a bunch of random things, or something like that.
 
 
-My current sandbox project "paila" uses LLM/AI to review and report on linux system logs. It's a spare time prototype and initial code may be ugly. :)
+My current sandbox project "paila" uses LLM/AI to review and report on linux system logs. It's a spare time prototype and initial code will be ugly. :) A lot of the project will be restructured as it is integrated into a pure k8s environment.
 
 Check out this page for my notes on the very first prototype test.
 [Ubuntu, Docker, and Ollama on AMD to analyze logs.](https://cmayen.github.io/pages/ubuntu-docker-ollama-rocm-log-analyzer) <!-- {:target="_blank" rel="noopener"} -->
