@@ -1,7 +1,48 @@
-Aspiring DevOps | Software Engineer | Linux SysAdmin | Electronics | Kubernetes HomeLab | Industrial Robotics | Part time Mad Scientist
+# 👋 Hey there, I'm Chris Mayenschein
 
+#### DevOps • Linux SysAdmin • Robotics & Automation Engineer • Creative Technologist
 
-Welcome to my personal GitHub, a place with a bunch of random things, or something like that. A lot of the content here is sandbox/prototype ideas. You can also check out my [ClusterShed](https://github.com/clustershed/) area for more polished work at [https://github.com/clustershed/](https://github.com/clustershed/)
+🚀 I bridge software and hardware through **automation, robotics, and open-source engineering**.  
+With  experience spanning **Linux infrastructure, solar systems, embedded hardware, and DevOps**, I thrive on solving real-world problems through code, circuits, and a bit of caffeine.
+
+---
+
+### ⚙️ What I Build
+
+- **Kubernetes HomeLabs** – because cloud-native shouldn’t be limited to the cloud.
+- **Automation Tools** – from robots to routers, I script everything I can.
+- **IoT + Electronics Projects** – blending physical computing with smart software.
+- **Open Source Experiments** – check out [ClusterShed](https://github.com/clustershed) for more polished releases.
+
+---
+
+### 🧠 Currently Exploring
+
+- Smarter DevOps workflows with AI assistance
+- Lightweight observability in home and edge clusters
+- Integrating robotics control with GitOps-style deployments
+
+---
+
+### 🛠️ Featured Projects
+
+- **[Paila](https://github.com/cmayen/paila)** - Parsing AI for Logging & Analysis
+- **[ClusterBulb](https://github.com/clustershed/clusterbulb)** - Visual cluster health indicators with Home Assistant
+- **[Homelab-K3s](https://github.com/cmayen/homelab-k3s)** - My evolving edge Kubernetes environment
+- **[Myrmidon-K3S](https://github.com/clustershed/myrmidon-k3s)** - A Kubernetes cluster experiment using extreme low power machinery with a goal to run purely off renewable energy.
+---
+
+### 🧩 A Bit About Me
+
+> “If it runs on code, circuits, or caffeine… I’ve probably worked on it.”
+
+When I’m not tuning a cluster or wiring up a sensor, I’m likely designing new automation concepts, creating content at **[ClusterShed](https://github.com/clustershed)**, or exploring robotics hardware.
+
+---
+
+### 🌐 Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/chrismayenschein/) • 💡 [ClusterShed](https://github.com/clustershed)
 
 <!--
 **cmayen/cmayen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
