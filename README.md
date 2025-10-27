@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 
 ---
 
-Technologist bridging software and hardware through automation, robotics, and Linux infrastructure. Over 10 years of experience across system administration, solar, and embedded systems.  Always learning, always building. If it runs on code, circuits, or caffeine..... I’ve probably worked on it.
+Technologist bridging software and hardware through automation, robotics, and Linux infrastructure. Experience across system administration, solar, and embedded systems.  Always learning, always building. If it runs on code, circuits, or caffeine... I’ve probably worked on it.
