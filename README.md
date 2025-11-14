@@ -26,6 +26,7 @@ With  experience spanning **Linux infrastructure, solar systems, embedded hardwa
 
 ### 🛠️ Featured Projects
 
+- **[amdgpu-K3s](https://github.com/cmayen/amdgpu-k3s)** - Minimal AMD GPU support tests for ollama running in Kubernetes k3s
 - **[Paila](https://github.com/cmayen/paila)** - Parsing AI for Logging & Analysis
 - **[ClusterBulb](https://github.com/clustershed/clusterbulb)** - Visual cluster health indicators with Home Assistant
 - **[Homelab-K3s](https://github.com/cmayen/homelab-k3s)** - My evolving edge Kubernetes environment
